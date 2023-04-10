@@ -1,0 +1,37 @@
+.background-color-container {
+  background-color: #2c0e3a;
+  padding: 15px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 320px;
+}
+.logo {
+  width: 120px;
+}
+@media screen and (min-width: 768px) {
+  .logo {
+    width: 150px;
+  }
+}
+.score-clock {
+  display: flex;
+  align-items: center;
+  color: White;
+  font-size: 12px;
+  font-weight: 400;
+}
+.clock-container {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+.clock {
+  height: 25px;
+  width: 25px;
+  padding: 5px;
+}
+p {
+  margin: 0px;
+}

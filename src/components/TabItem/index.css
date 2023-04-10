@@ -1,0 +1,14 @@
+li {
+  list-style-type: none;
+}
+.btn-tab {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+}
+.btn-border-class {
+  border-bottom: 3px solid #fec653;
+}
